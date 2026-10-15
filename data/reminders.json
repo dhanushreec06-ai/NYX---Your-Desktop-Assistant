@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "reminder": "Submit AI assignment",
+        "time": "tomorrow 10 AM",
+        "status": "completed",
+        "created_at": "2026-08-17T01:03:44.091523"
+    },
+    {
+        "id": 2,
+        "reminder": "Meeting",
+        "time": "tomorrow",
+        "status": "pending",
+        "created_at": "2026-08-17T01:32:23.253787"
+    },
+    {
+        "id": 3,
+        "reminder": "Meeting",
+        "time": "tomorrow 7:00 PM",
+        "status": "pending",
+        "created_at": "2026-08-17T01:34:12.613408"
+    }
+]

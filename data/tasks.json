@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "task": "Finish AI document",
+        "status": "completed",
+        "created_at": "2026-08-17T00:44:01.651755"
+    },
+    {
+        "id": 2,
+        "task": "Prepare presentation",
+        "status": "pending",
+        "created_at": "2026-08-17T00:44:01.653079"
+    },
+    {
+        "id": 3,
+        "task": "I have a tomorrow",
+        "status": "pending",
+        "created_at": "2026-08-17T21:50:21.585159"
+    },
+    {
+        "id": 4,
+        "task": "protects and text to speech this text becomes the input for an voice input for an air so this is have a two two sub modules in one single module there are two sub modules like a speech to text and text to speech speech to text that is the correct from the users input that input collect from the users that converts converts into the text to understand the AI then text to speech is for an AI that speak that converts the text into the speech way of commanding then that the way that is commanding so then we move to our next important module called as a brain brain of the next",
+        "status": "pending",
+        "created_at": "2026-08-18T01:08:09.180795"
+    }
+]

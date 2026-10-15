@@ -1,0 +1,16 @@
+{
+    "services": {
+        "whatsapp": {
+            "chrome": {
+                "count": 3,
+                "last_used": "2026-08-17T01:44:21.682290"
+            }
+        }
+    },
+    "browsers": {
+        "chrome": {
+            "count": 78,
+            "last_used": "2026-08-18T01:24:16.084008"
+        }
+    }
+}
